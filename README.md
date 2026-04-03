@@ -18,5 +18,5 @@ This project simulates a basic banking system where users can manage accounts an
 
 ## ▶️ How to Run
 1. Run the script:
-   python filename..ipynb
+   python filename.ipynb
    
